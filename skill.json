@@ -1,0 +1,17 @@
+{
+  "name": "genpark-hotstuff-chained-pipelined-bft-skill",
+  "version": "1.0.0",
+  "description": "HotStuff chained and pipelined BFT engine implementing pacemaker views, three-chain commit rule, and linear message complexity.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "hotstuff-bft",
+    "pipelined-consensus",
+    "blockchain",
+    "three-chain-commit",
+    "distributed-ledger"
+  ],
+  "dependencies": []
+}
